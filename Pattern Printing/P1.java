@@ -13,8 +13,8 @@ public class P1{
         int rows = sc.nextInt();
         System.out.println("Enter no of Rows");
         int column = sc.nextInt();
-        for (int i = 0 ; i < rows ; i++){
-            for (int j = 0 ; j < column ; j++){
+        for (int i = 0 ; i < rows ; i++){      // first loop runs for Rows 
+            for (int j = 0 ; j < column ; j++){          // second loop runs for column
                 System.out.print(" * ");
             }
             System.out.println();

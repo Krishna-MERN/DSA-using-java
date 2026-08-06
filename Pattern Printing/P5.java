@@ -1,4 +1,7 @@
-
+// print
+// a b c 
+// a b c 
+// a b c 
 import java.util.Scanner;
 
 public class P5 {

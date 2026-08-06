@@ -4,7 +4,11 @@ import java.util.Scanner;
 // 04/08/2026   
 
 // Printing the rectunguler star.
-
+//  *  *  *  *  *  *  * 
+//  *  *  *  *  *  *  * 
+//  *  *  *  *  *  *  * 
+//  *  *  *  *  *  *  * 
+//  *  *  *  *  *  *  * 
 
 public class P1{
     public static void main(String[] args) {

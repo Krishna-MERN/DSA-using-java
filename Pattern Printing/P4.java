@@ -1,4 +1,11 @@
+// print 
 
+// A B C D E F 
+// A B C D E F 
+// A B C D E F 
+// A B C D E F 
+// A B C D E F 
+// A B C D E F 
 import java.util.Scanner;
 
 public class P4 {

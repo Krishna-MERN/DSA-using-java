@@ -1,3 +1,12 @@
+// print 
+// a a a a a a a 
+// B B B B B B B 
+// c c c c c c c 
+// D D D D D D D 
+// e e e e e e e 
+// F F F F F F F 
+// g g g g g g g 
+
 
 import java.util.Scanner;
 
@@ -23,10 +32,4 @@ public class P8 {
     }
 }
 
-// a a a a a a a 
-// B B B B B B B 
-// c c c c c c c 
-// D D D D D D D 
-// e e e e e e e 
-// F F F F F F F 
-// g g g g g g g 
+

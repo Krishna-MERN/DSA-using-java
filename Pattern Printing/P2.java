@@ -1,6 +1,10 @@
 // printing a square
 
-
+//  *  *  *  *  * 
+//  *  *  *  *  * 
+//  *  *  *  *  * 
+//  *  *  *  *  * 
+//  *  *  *  *  * 
 
 import java.util.Scanner;
 

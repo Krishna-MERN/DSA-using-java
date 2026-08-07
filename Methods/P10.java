@@ -1,0 +1,31 @@
+package Methods;
+
+import java.util.Scanner;
+
+// permutaion and combination using method
+public class P10 {
+
+    public static int fact(int x){
+        int f = 1 ;
+        for (int i =1 ; i <= x ; i++){
+                f = f*i;
+        }
+        return f;
+    }
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Enter value of n : ");
+        int n = sc.nextInt();
+        System.out.print("Enter value of r : ");
+        int r = sc.nextInt();
+
+        int nCr = fact(n)/(fact(r)*fact(n-r));
+
+        int nPr = fact(n)/fact(n-r);
+        System.out.println("Value of nCr is : "+ nCr );
+    
+        System.out.println("Value of nPr is : "+ nPr );
+    }
+    
+}
